@@ -1,4 +1,4 @@
-# DATA ANALYST
+# Starting a career with DATA ANALYTICS
 Welcome to my data analyst portfolio.
 
 I am a passionate data analyst with expert knowledge in using tools and technologies to collect, Organize, and analyze data in business decision making.I have proficient level in SQL, Microsft Excel, Power BI, and Tablaue. I have good understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, Statistical and critical thinking.
